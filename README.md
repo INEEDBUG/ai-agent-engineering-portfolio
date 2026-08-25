@@ -4,14 +4,22 @@
 
 ## Projects
 
-| 项目 | 方向 | 可公开内容 |
-|---|---|---|
-| [多节点 AI Agent 与可恢复长期记忆平台](projects/ai-agent-memory-platform/README.md) | Agent Runtime / Memory / Recovery | 脱敏架构、恢复结果、上游贡献 |
-| [MaxGameStudio 本地游戏数据分析桌面产品](projects/maxgamestudio/README.md) | Desktop AI / Product Delivery | 产品与架构案例；链接公开源码仓库 |
-| [CW701 录像安全合并与存储恢复](projects/cw701-video-safety/README.md) | Go / Docker / FFmpeg / Storage | 安全设计与验证案例；真实录像和配置不公开 |
-| [HyperX Cloud II 麦克风被动诊断与监控](projects/hyperx-mic-monitor/README.md) | Windows / Core Audio / Diagnostics | 案例页与独立公开源码仓库 |
-| [旧版 Excel 工作表保护离线处理工具](projects/legacy-xls-tool/README.md) | PowerShell / OLE / BIFF | 授权场景下的离线工具案例 |
-| [Linux / FnOS / iStoreOS / VPS 基础设施治理](projects/linux-fnos-infrastructure/README.md) | Linux / Docker / NAS / Network | 脱敏运维架构、恢复与验收方法 |
+| 项目 | 方向 | 源码 | Release |
+|---|---|---|---|
+| [多节点 AI Agent 与可恢复长期记忆平台](projects/ai-agent-memory-platform/README.md) | Agent Runtime / Memory / Recovery | [agent-memory-recovery-toolkit](https://github.com/INEEDBUG/agent-memory-recovery-toolkit) | [v1.0.0](https://github.com/INEEDBUG/agent-memory-recovery-toolkit/releases/tag/v1.0.0) |
+| [MaxGameStudio 本地游戏数据分析桌面产品](projects/maxgamestudio/README.md) | Desktop AI / Product Delivery | [MaxGameStudio](https://github.com/INEEDBUG/MaxGameStudio) | [RC 2.5.14-rc.58](https://github.com/INEEDBUG/MaxGameStudio/releases/tag/rc-2.5.14-rc.58) |
+| [CW701 录像安全合并与存储恢复](projects/cw701-video-safety/README.md) | Go / Docker / FFmpeg / Storage | [cw701-video-merge-public](https://github.com/INEEDBUG/cw701-video-merge-public) | [v2.0.0](https://github.com/INEEDBUG/cw701-video-merge-public/releases/tag/v2.0.0) |
+| [HyperX Cloud II 麦克风被动诊断与监控](projects/hyperx-mic-monitor/README.md) | Windows / Core Audio / Diagnostics | [hyperx-cloud-ii-mic-monitor](https://github.com/INEEDBUG/hyperx-cloud-ii-mic-monitor) | [v1.0.0](https://github.com/INEEDBUG/hyperx-cloud-ii-mic-monitor/releases/tag/v1.0.0) |
+| [旧版 Excel 工作表保护离线处理工具](projects/legacy-xls-tool/README.md) | PowerShell / OLE / BIFF | [legacy-xls-worksheet-tool](https://github.com/INEEDBUG/legacy-xls-worksheet-tool) | [v1.2.0](https://github.com/INEEDBUG/legacy-xls-worksheet-tool/releases/tag/v1.2.0) |
+| [Linux / FnOS / iStoreOS / VPS 基础设施治理](projects/linux-fnos-infrastructure/README.md) | Linux / Docker / NAS / Network | [linux-fnos-ops-toolkit](https://github.com/INEEDBUG/linux-fnos-ops-toolkit) | [v1.0.0](https://github.com/INEEDBUG/linux-fnos-ops-toolkit/releases/tag/v1.0.0) |
+
+## Developers
+
+- **INEEDBUG** — product owner; requirements, key decisions, acceptance and release ownership.
+- **OpenAI Codex** — AI development collaborator; implementation, testing, documentation and delivery audit.
+- **Hermes Agent** — AI development collaborator; historical analysis, infrastructure operations and implementation support.
+
+AI collaboration is disclosed for transparency and does not imply separate GitHub commit identities or sole authorship.
 
 ## Engineering principles
 

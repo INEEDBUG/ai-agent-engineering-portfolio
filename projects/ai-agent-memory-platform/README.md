@@ -31,6 +31,17 @@
 - [Hermes Agent PR #44156](https://github.com/NousResearch/hermes-agent/pull/44156): a focused prototype for reducing unsafe cross-session context injection. Maintainer review confirmed the underlying risk; the patch was not directly merged because the upstream boundary required broader redesign.
 - [Hermes Agent issue #44094](https://github.com/NousResearch/hermes-agent/issues/44094): root-cause tracking and upstream coordination.
 
+## Source and release
+
+- Source: [INEEDBUG/agent-memory-recovery-toolkit](https://github.com/INEEDBUG/agent-memory-recovery-toolkit)
+- Release: [v1.0.0](https://github.com/INEEDBUG/agent-memory-recovery-toolkit/releases/tag/v1.0.0)
+
+The public implementation contains the sanitized SQLite/FTS schema, migration, audit, snapshot and restore tooling, plus automated recovery tests.
+
+## Developers
+
+INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
+
 ## Public boundary
 
 No prompts, chat contents, credentials, channel identifiers, host addresses, configuration snapshots or raw databases are included in this repository.

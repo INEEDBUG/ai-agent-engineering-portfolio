@@ -19,6 +19,15 @@
 - 对 USB bridge、RAID/LVM/ext4 链路执行按 UUID 识别、元数据备份、离线检查和真实 I/O 回读。
 - 当真实 I/O 异常再次出现时停止生产部署，保留原始录像并明确标记应用侧恢复仍待验证。
 
+## Source and release
+
+- Source: [INEEDBUG/cw701-video-merge-public](https://github.com/INEEDBUG/cw701-video-merge-public)
+- Release: [v2.0.0](https://github.com/INEEDBUG/cw701-video-merge-public/releases/tag/v2.0.0)
+
+## Developers
+
+INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
+
 ## Public boundary
 
-No camera footage, NAS paths, share names, IP addresses, filesystem UUIDs, SMART serials or private deployment configuration are published. The implementation repository remains private.
+No camera footage, NAS paths, share names, IP addresses, filesystem UUIDs, SMART serials or private deployment configuration are published. The public implementation is an independently rewritten, sanitized subset and excludes unlicensed upstream code.

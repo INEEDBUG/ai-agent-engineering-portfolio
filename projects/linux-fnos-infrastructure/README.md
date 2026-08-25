@@ -34,6 +34,17 @@
 - User-facing read/write and service-availability verification after change.
 - Unresolved state is retained instead of being reported as success.
 
+## Source and release
+
+- Source: [INEEDBUG/linux-fnos-ops-toolkit](https://github.com/INEEDBUG/linux-fnos-ops-toolkit)
+- Release: [v1.0.0](https://github.com/INEEDBUG/linux-fnos-ops-toolkit/releases/tag/v1.0.0)
+
+The public toolkit contains parameterized container, stream, storage, DNS and service health checks plus safe configuration backup helpers and contract tests.
+
+## Developers
+
+INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
+
 ## Public boundary
 
 No IP addresses, domain names, share names, hostnames, credentials, topology diagrams, filesystem UUIDs, private configuration or raw logs are included.

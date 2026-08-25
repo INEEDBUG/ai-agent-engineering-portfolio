@@ -17,6 +17,15 @@
 - 复核后活动保护记录为 0，原文件 SHA-256 保持不变。
 - v1.2.0 便携包完成图形界面、批处理、重复文件名、失败回滚和写后验证测试。
 
+## Source and release
+
+- Source: [INEEDBUG/legacy-xls-worksheet-tool](https://github.com/INEEDBUG/legacy-xls-worksheet-tool)
+- Release: [v1.2.0](https://github.com/INEEDBUG/legacy-xls-worksheet-tool/releases/tag/v1.2.0)
+
+## Developers
+
+INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
+
 ## Public boundary
 
-No user spreadsheets, extracted workbook contents or password material are included. Source code remains private while the safety model and supported boundary are documented here.
+No user spreadsheets, extracted workbook contents or password material are included. The sanitized PowerShell/WinForms implementation and synthetic tests are public.

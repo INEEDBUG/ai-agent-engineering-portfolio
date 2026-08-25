@@ -22,4 +22,10 @@
 
 Public source: [INEEDBUG/hyperx-cloud-ii-mic-monitor](https://github.com/INEEDBUG/hyperx-cloud-ii-mic-monitor)
 
+Release: [v1.0.0](https://github.com/INEEDBUG/hyperx-cloud-ii-mic-monitor/releases/tag/v1.0.0)
+
+## Developers
+
+INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
+
 Raw logs and workstation-specific device topology are intentionally excluded.
