@@ -13,14 +13,6 @@
 | [旧版 Excel 工作表保护离线处理工具](projects/legacy-xls-tool/README.md) | PowerShell / OLE / BIFF | [legacy-xls-worksheet-tool](https://github.com/INEEDBUG/legacy-xls-worksheet-tool) | [v1.2.0](https://github.com/INEEDBUG/legacy-xls-worksheet-tool/releases/tag/v1.2.0) |
 | [Linux / FnOS / iStoreOS / VPS 基础设施治理](projects/linux-fnos-infrastructure/README.md) | Linux / Docker / NAS / Network | [linux-fnos-ops-toolkit](https://github.com/INEEDBUG/linux-fnos-ops-toolkit) | [v1.0.0](https://github.com/INEEDBUG/linux-fnos-ops-toolkit/releases/tag/v1.0.0) |
 
-## Developers
-
-- **INEEDBUG** — product owner; requirements, key decisions, acceptance and release ownership.
-- **OpenAI Codex** — AI development collaborator; implementation, testing, documentation and delivery audit.
-- **Hermes Agent** — AI development collaborator; historical analysis, infrastructure operations and implementation support.
-
-AI collaboration is disclosed for transparency and does not imply separate GitHub commit identities or sole authorship.
-
 ## Engineering principles
 
 - Evidence before diagnosis: separate verified facts, hypotheses and unresolved state.

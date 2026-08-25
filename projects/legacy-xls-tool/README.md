@@ -22,10 +22,6 @@
 - Source: [INEEDBUG/legacy-xls-worksheet-tool](https://github.com/INEEDBUG/legacy-xls-worksheet-tool)
 - Release: [v1.2.0](https://github.com/INEEDBUG/legacy-xls-worksheet-tool/releases/tag/v1.2.0)
 
-## Developers
-
-INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
-
 ## Public boundary
 
 No user spreadsheets, extracted workbook contents or password material are included. The sanitized PowerShell/WinForms implementation and synthetic tests are public.

@@ -27,8 +27,4 @@ Public source: [INEEDBUG/MaxGameStudio](https://github.com/INEEDBUG/MaxGameStudi
 
 Release: [RC 2.5.14-rc.58](https://github.com/INEEDBUG/MaxGameStudio/releases/tag/rc-2.5.14-rc.58)
 
-## Developers
-
-INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
-
 The portfolio does not duplicate local release worktrees, game data, Demo files, Steam identifiers, databases, logs, private configuration, access tokens or third-party assets. The case study documents product and engineering decisions without exposing user data.

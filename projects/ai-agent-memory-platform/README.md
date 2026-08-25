@@ -38,10 +38,6 @@
 
 The public implementation contains the sanitized SQLite/FTS schema, migration, audit, snapshot and restore tooling, plus automated recovery tests.
 
-## Developers
-
-INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
-
 ## Public boundary
 
 No prompts, chat contents, credentials, channel identifiers, host addresses, configuration snapshots or raw databases are included in this repository.

@@ -41,10 +41,6 @@
 
 The public toolkit contains parameterized container, stream, storage, DNS and service health checks plus safe configuration backup helpers and contract tests.
 
-## Developers
-
-INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
-
 ## Public boundary
 
 No IP addresses, domain names, share names, hostnames, credentials, topology diagrams, filesystem UUIDs, private configuration or raw logs are included.

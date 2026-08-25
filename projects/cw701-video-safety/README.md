@@ -24,10 +24,6 @@
 - Source: [INEEDBUG/cw701-video-merge-public](https://github.com/INEEDBUG/cw701-video-merge-public)
 - Release: [v2.0.0](https://github.com/INEEDBUG/cw701-video-merge-public/releases/tag/v2.0.0)
 
-## Developers
-
-INEEDBUG (product owner), OpenAI Codex (AI development collaborator), and Hermes Agent (AI development collaborator).
-
 ## Public boundary
 
 No camera footage, NAS paths, share names, IP addresses, filesystem UUIDs, SMART serials or private deployment configuration are published. The public implementation is an independently rewritten, sanitized subset and excludes unlicensed upstream code.
