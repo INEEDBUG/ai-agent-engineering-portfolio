@@ -13,3 +13,10 @@ secrets/
 private/
 raw-logs/
 artifacts/
+*.exe
+*.xls
+*.xlsx
+*.xlsm
+*.zip
+*.docx
+*.pdf

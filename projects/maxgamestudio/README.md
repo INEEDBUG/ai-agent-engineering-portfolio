@@ -21,6 +21,8 @@ Python, FastAPI, React, Tauri, SQLite and mature open-source CS2 demo components
 - 推进至 2.5.14 RC 系列，完成品牌迁移、旧快捷方式清理和原位升级校验。
 - 将“元数据已更新”与“用户桌面真实体验已迁移”拆分验收，修复旧品牌残留问题。
 
-## Public boundary
+## Source and public boundary
 
-The product repository and game data remain private. This page documents product and engineering decisions only; it does not publish proprietary source, user data or third-party assets.
+Public source: [INEEDBUG/MaxGameStudio](https://github.com/INEEDBUG/MaxGameStudio)
+
+The portfolio does not duplicate local release worktrees, game data, Demo files, Steam identifiers, databases, logs, private configuration, access tokens or third-party assets. The case study documents product and engineering decisions without exposing user data.

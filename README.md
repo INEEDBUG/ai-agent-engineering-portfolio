@@ -7,7 +7,7 @@
 | 项目 | 方向 | 可公开内容 |
 |---|---|---|
 | [多节点 AI Agent 与可恢复长期记忆平台](projects/ai-agent-memory-platform/README.md) | Agent Runtime / Memory / Recovery | 脱敏架构、恢复结果、上游贡献 |
-| [MaxGameStudio 本地游戏数据分析桌面产品](projects/maxgamestudio/README.md) | Desktop AI / Product Delivery | 产品与架构案例；源码私有 |
+| [MaxGameStudio 本地游戏数据分析桌面产品](projects/maxgamestudio/README.md) | Desktop AI / Product Delivery | 产品与架构案例；链接公开源码仓库 |
 | [CW701 录像安全合并与存储恢复](projects/cw701-video-safety/README.md) | Go / Docker / FFmpeg / Storage | 安全设计与验证案例；真实录像和配置不公开 |
 | [HyperX Cloud II 麦克风被动诊断与监控](projects/hyperx-mic-monitor/README.md) | Windows / Core Audio / Diagnostics | 案例页与独立公开源码仓库 |
 | [旧版 Excel 工作表保护离线处理工具](projects/legacy-xls-tool/README.md) | PowerShell / OLE / BIFF | 授权场景下的离线工具案例 |
